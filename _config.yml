@@ -1,0 +1,28 @@
+name: tpeterson
+favicon: null
+layout_spectrum: 0.5750486394390464
+typography_spectrum: 0.9140400704927742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2667541494593024
+  lightness: 0.37461918010376394
+  saturation: 0.47878987481817603
+  rhythmicContrast: 0.7604765137657523
+purpose: []
